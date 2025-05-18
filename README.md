@@ -94,9 +94,8 @@ ecdsa-node/
 ├── client/                 # React frontend (Vite)
 │   ├── public/             # Static assets
 │   ├── src/
-│   │   ├── components/     # React components
-│   │   │   ├── Wallet.jsx  # Wallet interface
-│   │   │   └── Transfer.js # Transaction handler
+│   │   ├── Wallet.jsx  # Wallet interface
+│   │   ├── Transfer.js # Transaction handler
 │   │   ├── App.js          # Main application
 │   │   └── main.jsx        # Entry point
 │   └── package.json        # Client dependencies
